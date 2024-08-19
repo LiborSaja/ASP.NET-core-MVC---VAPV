@@ -1,0 +1,1337 @@
+[
+  {
+    "Category": "Práce",
+    "Text": "Omlouvám se, že jsem ti to nevzal, ale nebyl signál, když jsem byl na cestě do kanceláře.",
+    "Likes": 0
+  },
+  {
+    "Category": "Práce",
+    "Text": "Prezentaci ještě nemám, můj pes mi sežral USB s tou prezentací.",
+    "Likes": 0
+  },
+  {
+    "Category": "Domácí",
+    "Text": "Uklidil bych, ale jsem alergický na všechny druhy čisticích prostředků, které máme doma.",
+    "Likes": 0
+  },
+  {
+    "Category": "Práce",
+    "Text": "Nemůžu přijít do práce, protože nemám peníze na dopravu.",
+    "Likes": 0
+  },
+  {
+    "Category": "Škola",
+    "Text": "Nemám domácí úkol, protože mi pes sežral sešit.",
+    "Likes": 0
+  },
+  {
+    "Category": "Škola",
+    "Text": "Nestihl jsem napsat seminárku, protože jsem se zasekl v Minecraftu.",
+    "Likes": 0
+  },
+  {
+    "Category": "Škola",
+    "Text": "Nemám úkol, protože moje kočka mi shodila sešit do akvária.",
+    "Likes": 0
+  },
+  {
+    "Category": "Škola",
+    "Text": "Zaspal jsem, protože můj budík z neznámých důvodů změnil časové pásmo.",
+    "Likes": 0
+  },
+  {
+    "Category": "Škola",
+    "Text": "Nemám domácí úkol, protože mi malý bratr roztrhal sešity.",
+    "Likes": 0
+  },
+  {
+    "Category": "Škola",
+    "Text": "Nemám domácí úkol, protože moje malá sestřička použila sešit jako papír na kreslení.",
+    "Likes": 0
+  },
+  {
+    "Category": "Domácí",
+    "Text": "Květiny jsem nezalil, protože jsem čekal na den, až bude měsíc v plné fázi.",
+    "Likes": 0
+  },
+  {
+    "Category": "Domácí",
+    "Text": "Chtěl jsem uvařit, ale plyn nějak nechtěl hořet.",
+    "Likes": 0
+  },
+  {
+    "Category": "Společenské",
+    "Text": "Omlouvám se, ale dnes večer nemůžu, mám pravidelné plánované testování pohodlnosti sedačky.",
+    "Likes": 0
+  },
+  {
+    "Category": "Škola",
+    "Text": "Ztratil jsem sešit, protože jsem ho omylem poslal babičce místo dopisu.",
+    "Likes": 0
+  },
+  {
+    "Category": "Škola",
+    "Text": "Nemám úkol, protože mi ho sousedovic pes odnesl do své boudy.",
+    "Likes": 0
+  },
+  {
+    "Category": "Škola",
+    "Text": "Nemohl jsem napsat referát, protože mi rodiče vypnuli internet a knihy mě děsí.",
+    "Likes": 0
+  },
+  {
+    "Category": "Škola",
+    "Text": "Nemám sešity, protože jsem je omylem hodil i s batohem do pračky.",
+    "Likes": 0
+  },
+  {
+    "Category": "Společenské",
+    "Text": "Omlouvám se ale nepříjdu, můj papoušek má deprese. Musím být s ním.",
+    "Likes": 0
+  },
+  {
+    "Category": "Škola",
+    "Text": "Nemohl jsem se učit, protože jsem musel hledat ztracenou ponožku.",
+    "Likes": 0
+  },
+  {
+    "Category": "Škola",
+    "Text": "Ztratil jsem domácí úkol, protože jsem ho omylem hodil do koše místo svačiny.",
+    "Likes": 0
+  },
+  {
+    "Category": "Společenské",
+    "Text": "Omlouvám se ale nepříjdu, jsem nachlazený a nechci tě nakazit.",
+    "Likes": 0
+  },
+  {
+    "Category": "Sex",
+    "Text": "Dneska ne, bolí mě hlava a necítím se dobře.",
+    "Likes": 0
+  },
+  {
+    "Category": "Sex",
+    "Text": "Mám na zítřek tolik věcí na práci, že na to nemám dnes čas.",
+    "Likes": 0
+  },
+  {
+    "Category": "IT",
+    "Text": "Já nevím, proč to nefunguje, včera to šlo.",
+    "Likes": 0
+  },
+  {
+    "Category": "Domácí",
+    "Text": "Nemůžu vynést odpadky, protože koš a já jsme ve střetu vážné debaty o globálním oteplování.",
+    "Likes": 0
+  },
+  {
+    "Category": "Technologické",
+    "Text": "Omlouvám se, ale kód se rozhodl stát se samostatně uvažující entitou a ignoruje všechny mé příkazy.",
+    "Likes": 0
+  },
+  {
+    "Category": "IT",
+    "Text": "Omlouvám se šéfe, že jsem to nečetl, ale firewall mi asi zablokoval ten váš email.",
+    "Likes": 0
+  },
+  {
+    "Category": "Škola",
+    "Text": "Nemám domácí úkol, protože můj mozek je tak přetížen informacemi, že už není schopen zpracovávat další úkoly.",
+    "Likes": 0
+  },
+  {
+    "Category": "Společenské",
+    "Text": "Omlouvám se, ale nedostavím se, moje střeva právě pořádají maraton.",
+    "Likes": 0
+  },
+  {
+    "Category": "Domácí",
+    "Text": "Nemůžu vynést odpadky, protože se koš zamiloval do pytle a já je nechci rozdělit.",
+    "Likes": 0
+  },
+  {
+    "Category": "Technologické",
+    "Text": "Projekt jsem nedokončil, protože můj hard disk se rozhodl pro přechod do stavu hluboké meditace.",
+    "Likes": 0
+  },
+  {
+    "Category": "Technologické",
+    "Text": "Nemůžu se připojit, protože můj router se rozhodl pro digitální detox.",
+    "Likes": 0
+  },
+  {
+    "Category": "IT",
+    "Text": "Můj debugger odmítá spolupracovat, protože má filozofickou krizi ohledně své existence.",
+    "Likes": 0
+  },
+  {
+    "Category": "Škola",
+    "Text": "Do školy jsem nedorazil, protože u silnice byla cedule s nápisem - pozor škola!",
+    "Likes": 0
+  },
+  {
+    "Category": "Škola",
+    "Text": "Přišel jsem pozdě, protože jsem čekal s košem, až bezdomovci vyberou popelnici.",
+    "Likes": 0
+  },
+  {
+    "Category": "Pojišťovna",
+    "Text": "Kopírka mi sežrala záznam o dopravní nehodě a vyplivla ho přepsaný něčím úplně jiným.",
+    "Likes": 0
+  },
+  {
+    "Category": "Pojišťovna",
+    "Text": "Srážku zavinila moucha, která vlétla do vozu a kterou jsem si spletla s vosou, na kterou jsem alergická.",
+    "Likes": 0
+  },
+  {
+    "Category": "Pojišťovna",
+    "Text": "Zadní sklo prasklo po nárazu do větve zrovna když jsem couval, takže v tu chvíli plnilo funkci předního skla, které mám pojištěné.",
+    "Likes": 0
+  },
+  {
+    "Category": "Práce",
+    "Text": "Musím končit, mám slabou baterku.",
+    "Likes": 0
+  },
+  {
+    "Category": "Práce",
+    "Text": "Jsem nemocný, nepřijdu do práce, protože jsem si spletl tuňáka s kočičím žrádlem.",
+    "Likes": 0
+  },
+  {
+    "Category": "Práce",
+    "Text": "Nepřijdu do práce, protože jsem si popálil ruce, když jsem se snažil chytit padající špekáček.",
+    "Likes": 0
+  },
+  {
+    "Category": "Domácí",
+    "Text": "Uklidil bych, ale můj vnitřní hlas mi říká, že dnes je den na odpočinek a ne na úklid.",
+    "Likes": 0
+  },
+  {
+    "Category": "Domácí",
+    "Text": "Uklidím, ale musím nejdříve strávit dnešek meditací, abych dosáhl vnitřního klidu pro efektivnější úklid zítra.",
+    "Likes": 0
+  },
+  {
+    "Category": "Zdravotní",
+    "Text": "Lékař mi doporučil vyhnout se stresu, takže nejdu do práce, nebudu se s nikým bavit, a raději se nebudu dívat ani na televizi",
+    "Likes": 0
+  },
+  {
+    "Category": "Doprava",
+    "Text": "Nepřijel jsem včas, protože se aktivisti zase přilepili k cestě.",
+    "Likes": 0
+  },
+  {
+    "Category": "Sport",
+    "Text": "Nepřišel jsem na trénink, protože jsem myslel, že je až zítra.",
+    "Likes": 0
+  },
+  {
+    "Category": "Vztahy a rodina",
+    "Text": "Ne, já jsem nezapomněl na naše výročí svatby, jen jsem plánoval velké překvapení na zítra, abych tě překvapil.",
+    "Likes": 0
+  },
+  {
+    "Category": "Kulinářské",
+    "Text": "Moc mi to chutná, jenom jsem teď na speciální dietě, která zakazuje všechno, co chutná skvěle.",
+    "Likes": 0
+  },
+  {
+    "Category": "Finanční",
+    "Text": "Nemůžu ti půjčit peníze, sám mám málo.",
+    "Likes": 0
+  },
+  {
+    "Category": "Cestování",
+    "Text": "Nejezdím na dovolenou, protože mám doma zvířata.",
+    "Likes": 0
+  },
+  {
+    "Category": "Zvířátka",
+    "Text": "Neuklidil jsem po svém pejskovi, protože jsem si vzpomněl, že jsem ztratil poslední pytlík a musel jsem jít koupit nové.",
+    "Likes": 0
+  },
+  {
+    "Category": "Zdravotní",
+    "Text": "Rád bych držel dietu pane doktore, ale moje genetika mi prostě nedovoluje zhubnout.",
+    "Likes": 0
+  },
+  {
+    "Category": "Nakupování",
+    "Text": "Rád bych šel s tebou nakupovat, ale už jsem přesáhl svůj měsíční limit na nákupy.",
+    "Likes": 0
+  },
+  {
+    "Category": "Příroda",
+    "Text": "Omlouvám se, ale dneska mám školení o tom, jak rozpoznat různé druhy mraků.",
+    "Likes": 0
+  },
+  {
+    "Category": "Práce",
+    "Text": "Zaspal jsem, protože se mi vybila baterka v mobilu, a tak mě nevzbudil budík.",
+    "Likes": 0
+  },
+  {
+    "Category": "Doprava",
+    "Text": "Nepřezul jsem pneumatiky, protože jsem byl přesvědčen, že globální oteplování udělá zimní pneumatiky zbytečnými.",
+    "Likes": 0
+  },
+  {
+    "Category": "Sport",
+    "Text": "Netrénoval jsem, protože jsem ztratil motivaci někde mezi ledničkou a obývákem.",
+    "Likes": 0
+  },
+  {
+    "Category": "Vztahy a rodina",
+    "Text": "Ne, já jsem nezapomněl na tvé narozeniny, jen jsem chtěl, aby sis myslel, že jsem zapomněl, aby bylo překvapení ještě větší.",
+    "Likes": 0
+  },
+  {
+    "Category": "Kulinářské",
+    "Text": "Moc mi to chutná, jenom bych rád udržel tuto skvělou chuť v ústech co nejdéle.",
+    "Likes": 0
+  },
+  {
+    "Category": "Finanční",
+    "Text": "Rád bych ti půjčil peníze, ale zrovna jsem všechno investoval do krypta.",
+    "Likes": 0
+  },
+  {
+    "Category": "Cestování",
+    "Text": "Nejezdím na dovolenou, protože u nás je nejkrásněji.",
+    "Likes": 0
+  },
+  {
+    "Category": "Zvířátka",
+    "Text": "Proč bych to měl po psovi uklízet, příroda se postará.",
+    "Likes": 0
+  },
+  {
+    "Category": "Zvířátka",
+    "Text": "Nemůžu jít vyvenčit psa, protože čekám návštěvu.",
+    "Likes": 0
+  },
+  {
+    "Category": "Zdravotní",
+    "Text": "Rád bych začal jíst zdravě pane doktore, ale moje chuťové pohárky jsou tak citlivé, že při čemkoliv zdravém se mi zvedá žaludek.",
+    "Likes": 0
+  },
+  {
+    "Category": "Zdravotní",
+    "Text": "Vím, že bych měl zhubnout, ale mám tak pomalý metabolismus, že i když nic nejím, přibírám na váze. Je to prokletí!",
+    "Likes": 0
+  },
+  {
+    "Category": "Nakupování",
+    "Text": "Rád bych šel s tebou nakupovat, ale nemám rád davy lidí a v nákupních centrech je vždycky plno.",
+    "Likes": 0
+  },
+  {
+    "Category": "Nakupování",
+    "Text": "Rád bych ti to koupil, ale chci ti dát něco speciálního a originálního.",
+    "Likes": 0
+  },
+  {
+    "Category": "Nakupování",
+    "Text": "Proč chodit do obchodu, když si všechno můžu objednat online?",
+    "Likes": 0
+  },
+  {
+    "Category": "Příroda",
+    "Text": "Raději budu sledovat, jak roste tráva na zahradě, než tam jít.",
+    "Likes": 0
+  },
+  {
+    "Category": "Příroda",
+    "Text": "Rád bych šel do přírody, ale letos je prý moc klíšťat.",
+    "Likes": 0
+  },
+  {
+    "Category": "Příroda",
+    "Text": "Rád bych šel do přírody, ale prý má být špatné počasí.",
+    "Likes": 0
+  },
+  {
+    "Category": "Příroda",
+    "Text": "Rád bych šel do přírody, ale mám alergii na pyly.",
+    "Likes": 0
+  },
+  {
+    "Category": "Příroda",
+    "Text": "Rád bych šel do přírody, ale moje kolo má defekt a já jsem ztratil pumpičku.",
+    "Likes": 0
+  },
+  {
+    "Category": "Chybování",
+    "Text": "To nebyla chyba, to byla kreativní inovace!",
+    "Likes": 0
+  },
+  {
+    "Category": "Chybování",
+    "Text": "To byl vlastně plán B, jenom jsem vám o něm zapomněl říct.",
+    "Likes": 0
+  },
+  {
+    "Category": "Chybování",
+    "Text": "Ale já jsem to tak chtěl.",
+    "Likes": 0
+  },
+  {
+    "Category": "Chybování",
+    "Text": "To je nová experimentální metoda, o které jste ještě neslyšeli.",
+    "Likes": 0
+  },
+  {
+    "Category": "Chybování",
+    "Text": "Chtěl jsem to toho vnést trochu chaosu, aby to bylo zajímavější.",
+    "Likes": 0
+  },
+  {
+    "Category": "Chybování",
+    "Text": "To musel udělat někdo jiný, já bych nikdy něco takového neudělal.",
+    "Likes": 0
+  },
+  {
+    "Category": "Chybování",
+    "Text": "Já jsem vás jen zkoušel, abych zjistil, jak jste pozorní.",
+    "Likes": 0
+  },
+  {
+    "Category": "Politické",
+    "Text": "V té krabici je víno, které jsem dostal od kolegyně.",
+    "Likes": 0
+  },
+  {
+    "Category": "Politické",
+    "Text": "Velké množství pracovních schůzek, různých pietních aktů a státnických akcí v posledních dnech, a bohužel také lehká viróza, se trochu podepsaly na panu prezidentovi.",
+    "Likes": 0
+  },
+  {
+    "Category": "Politické",
+    "Text": "Nechci se do toho zabrušovat, abych se pak z toho nemusel zase vybrušovat a neřekl něco špatně.",
+    "Likes": 0
+  },
+  {
+    "Category": "Politické",
+    "Text": "To jsou čisté peníze, fakt mi věřte, prosím, vždyť já lhát ani neumím. Já jsem klaďas!",
+    "Likes": 0
+  },
+  {
+    "Category": "Politické",
+    "Text": "Ty peníze jsou křišťálově čisté, že prostě ani křišťál křišťálově čistější být nemůže.",
+    "Likes": 0
+  },
+  {
+    "Category": "Sport",
+    "Text": "Nic jsem neplatil, a ta částka absolutně nesouhlasí.",
+    "Likes": 0
+  },
+  {
+    "Category": "Politické",
+    "Text": "Neposkytnu vám rozhovor, protože moje agenda je tak přeplněná, že i moje poznámky mají poznámky.",
+    "Likes": 0
+  },
+  {
+    "Category": "Společenské",
+    "Text": "Rád bych se zúčastnil, ale právě teď připravuji evakuační plán pro případ dopadu asteroidu.",
+    "Likes": 0
+  },
+  {
+    "Category": "Práce",
+    "Text": "Nemůžu přijít do práce, protože jsem si ráno spletl láhev coly s láhví rumu v domění, že jde o colu.",
+    "Likes": 0
+  },
+  {
+    "Category": "Vztahy a rodina",
+    "Text": "Nemám se tam jak dostat, opustila mě manželka a auto vzala sebou.",
+    "Likes": 0
+  },
+  {
+    "Category": "Škola",
+    "Text": "Na přednášku jsem nedorazil, protože jsem nemohl najít tu třídu.",
+    "Likes": 0
+  },
+  {
+    "Category": "Společenské",
+    "Text": "Spozdil jsem se, protože jsem po cestě viděl UFO a musel jsem to prozkoumat.",
+    "Likes": 0
+  },
+  {
+    "Category": "Práce",
+    "Text": "Včera jsem nebyl v práci, protože jsem myslel, že je svátek.",
+    "Likes": 0
+  },
+  {
+    "Category": "Různé",
+    "Text": "Ne, nezapomněl jsem, jen si pamatuji to, co potřebuji.",
+    "Likes": 0
+  },
+  {
+    "Category": "Vztahy a rodina",
+    "Text": "To víš, že jsem uvařila večeři, a jakou večeři! Takovou svět ještě neviděl.",
+    "Likes": 0
+  },
+  {
+    "Category": "Vztahy a rodina",
+    "Text": "Rád bych tě obejmul, ale právě teď dělám experiment, jak dlouho vydržím bez fyzického kontaktu.",
+    "Likes": 0
+  },
+  {
+    "Category": "Vztahy a rodina",
+    "Text": "Ráda bych tě políbila, ale mám opar.",
+    "Likes": 0
+  },
+  {
+    "Category": "Zvířátka",
+    "Text": "Miluju zvířátka, ale moje drobná alergie na jejich roztomilost mi to občas znemožňuje.",
+    "Likes": 0
+  },
+  {
+    "Category": "Vztahy a rodina",
+    "Text": "Nechci děti, protože lidí je na světě dost.",
+    "Likes": 0
+  },
+  {
+    "Category": "Různé",
+    "Text": "Nemůžete si mě vyfotit, protože jsem tajný agent na misi a musím zůstat inkognito.",
+    "Likes": 0
+  },
+  {
+    "Category": "Různé",
+    "Text": "Já jsem nic nepil, jen jsem chtěl ocenit jemné chuťové nuance ve všech druzích piva.",
+    "Likes": 0
+  },
+  {
+    "Category": "Různé",
+    "Text": "Já bych vyhrál, kdybych chtěl, ale nechal jsem tentokrát vyhrát soupeře.",
+    "Likes": 0
+  },
+  {
+    "Category": "Různé",
+    "Text": "Omlouvám se, ale můj mozek je na dovolené a vrátí se až za týden.",
+    "Likes": 0
+  },
+  {
+    "Category": "Různé",
+    "Text": "Moc jsem toho nevypil, jen jsem se snažil najít nápoj, který jsme tehdy měli na dovolené.",
+    "Likes": 0
+  },
+  {
+    "Category": "IT",
+    "Text": "To není chyba v systému, to je vlastnost.",
+    "Likes": 0
+  },
+  {
+    "Category": "IT",
+    "Text": "To je divné, u mě to funguje.",
+    "Likes": 0
+  },
+  {
+    "Category": "Vztahy a rodina",
+    "Text": "Naše přátelství skončilo, protože podle něj ananas patří na pizzu.",
+    "Likes": 0
+  },
+  {
+    "Category": "Zvířátka",
+    "Text": "Povolení na chov tygrů mám, ale zrovna dnes mi ho Mikeš sežral.",
+    "Likes": 0
+  },
+  {
+    "Category": "Vědecké",
+    "Text": "Omlouvám se za zpoždění, ale musel jsem se vypořádat s anomálií v beta rozpadu.",
+    "Likes": 0
+  },
+  {
+    "Category": "Sex",
+    "Text": "Co zas chceš? Však jsi to měla minulý týden, kromě toho na nás kouká naše kočka.",
+    "Likes": 0
+  },
+  {
+    "Category": "Sex",
+    "Text": "Děti ještě nespí.",
+    "Likes": 0
+  },
+  {
+    "Category": "Sex",
+    "Text": "Měla jsem těžký den.",
+    "Likes": 0
+  },
+  {
+    "Category": "Sex",
+    "Text": "Stejně mě neuděláš, tak to nemá smysl.",
+    "Likes": 0
+  },
+  {
+    "Category": "Sex",
+    "Text": "Ne, jsi opilý!",
+    "Likes": 0
+  },
+  {
+    "Category": "Sex",
+    "Text": "Promiň, právě mám své dny.",
+    "Likes": 0
+  },
+  {
+    "Category": "Zvířátka",
+    "Text": "Omluvám se za spoždění, asi mi nebudete věřit, ale slon mi blokoval výjezd z garáže.",
+    "Likes": 0
+  },
+  {
+    "Category": "Různé",
+    "Text": "Já vím, že bych s tím měl přestat, ale dneska je výjimečně náročný den.",
+    "Likes": 0
+  },
+  {
+    "Category": "Různé",
+    "Text": "Já vím, že bych s tím měl přestat, dneska je to naposledy.",
+    "Likes": 0
+  },
+  {
+    "Category": "Zvířátka",
+    "Text": "Dneska to nepůjde, můj chameleon utekl z terária a já ho teď nemůžu najít.",
+    "Likes": 0
+  },
+  {
+    "Category": "Zvířátka",
+    "Text": "Vezmeme si zvířátko z útulku, protože potřebujeme výmluvu, proč nemůžeme dělat přesčasy.",
+    "Likes": 0
+  },
+  {
+    "Category": "Zvířátka",
+    "Text": "Jsem nevyspaný, protože komáři dneska pořádali noční koncert.",
+    "Likes": 0
+  },
+  {
+    "Category": "Různé",
+    "Text": "Hamburgery nejím, protože se bojím, že by se mi sen o zeleninové zahrádce zdál příliš nepravděpodobný.",
+    "Likes": 0
+  },
+  {
+    "Category": "Sex",
+    "Text": "Banány nejím, protože mi připomínají mého ex.",
+    "Likes": 0
+  },
+  {
+    "Category": "Zvířátka",
+    "Text": "Nemám rád psy, protože existují chutnější pokrmy.",
+    "Likes": 0
+  },
+  {
+    "Category": "Různé",
+    "Text": "Vsázím, protože chci dokázat, že moje intuice je lepší než statistiky.",
+    "Likes": 0
+  },
+  {
+    "Category": "Zdravotní",
+    "Text": "Já za to nemůžu, že mám polámané prsty pane doktore, to ten kokos, nechtěl se otevřít.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Vztahy a rodina",
+    "Text": "Nemůžu jít do obchodu mami, protože nemůžu najít moje oblíbené červené tenisky!",
+    "Likes": "0"
+  },
+  {
+    "Category": "Vztahy a rodina",
+    "Text": "Buď v klidu tati, 10 let věkový rozdíl mezi partnery je dneska úplně normální, kromě toho, už je mi patnáct.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Vztahy a rodina",
+    "Text": "Přišla jsem pozdě, protože mi ujela tramvaj.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Vztahy a rodina",
+    "Text": "Ale kámošky můžou přijít domů klidně o půl noci!",
+    "Likes": "0"
+  },
+  {
+    "Category": "Vztahy a rodina",
+    "Text": "Ne, nejsem naštvaný miláčku, jsem úplně v klidu, do p....",
+    "Likes": "0"
+  },
+  {
+    "Category": "Sex",
+    "Text": "To víš, že mé srdce patří jen tobě, ale já chci, aby to bylo perfektní. Což není dnes.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Sex",
+    "Text": "Dobrý den, šlo by jedno balení tabletek vrátit a vyměnit za tu slabší verzi? Celý den mám šéfa v pozoru a nedá se s tím pomalu ani pracovat.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Zdravotní",
+    "Text": "Potřebuji nutně přesunout termín pane psychiatře, protože 19.09. musím mluvit a mňoukat jako pirát.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Práce",
+    "Text": "Samozřejmě, že můžete dostat přidáno, ale až zítra, protože dnes je úterý a v úterý nepřidáváme.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Práce",
+    "Text": "Samozřejmě, že můžete dostat přidáno. Více práce.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Práce",
+    "Text": "Samozřejmě, že můžete dostat přidáno, ale až se nám podaří vypěstovat peníze na stromě.",
+    "Likes": "0"
+  },
+  {
+    "Category": "IT",
+    "Text": "Tento problém je pravděpodobně způsoben hardwarem, takže se budete muset obrátit na servisního technika.",
+    "Likes": "0"
+  },
+  {
+    "Category": "IT",
+    "Text": "Systém je momentálně přetížený, zkuste to prosím později.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Zdravotní",
+    "Text": "To je dobré sestři, to se schová pod obvazem.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Různé",
+    "Text": "Naco tady budeme mít mrakodrap? Stejně to bude věčně podělané od holubů.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Sex",
+    "Text": "Ochranu si nenasadím, protože se chci cítit volně jako pták.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Finanční",
+    "Text": "Rád bych přispěl, ale moje peněženka je jako cibule, když ji otevřu, rozbrečím se.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Různé",
+    "Text": "Knihy nečtu, protože vždycky usnu dřív, než otočím stránku.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Různé",
+    "Text": "Knihy nečtu, protože mám alergii na papír, vždycky se rozkýchám.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Různé",
+    "Text": "Knihy nečtu, protože na to špatně vidím.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Škola",
+    "Text": "Proč bych se měl něco učit, když máme AI?.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Různé",
+    "Text": "Nerecykluji a netřídím, protože to beztak nefunguje.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Práce",
+    "Text": "Já jsem chtěl spolupracovat na tom projektu, ale oni byli offline, když já byl online.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Sport",
+    "Text": "Bojové sporty dělat nebudu, protože nechci vypadat každý týden jak omalovánky.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Zvířátka",
+    "Text": "Kávu zásadně nepiji, vážně nemám zájem pít něco, co už jednou prošlo trávicím traktem, navíc zvířecím.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Různé",
+    "Text": "Nemám rád vegetariány, protože žerou jídlo mému jídlu.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Zvířátka",
+    "Text": "Omlouvám se, že jdu pozdě, ale ta kráva, co mám doma, blokovala dveře.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Finanční",
+    "Text": "Fakturu jsem nezaplatil, protože jsem byl v zahraničí a tam nebylo připojení k internetu.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Doprava",
+    "Text": "Zadní mlhovky nepotřebuju, za takového počasí sedím stejně doma.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Technologie",
+    "Text": "Když to nechám opravit, stejně to dlouho nevydrží.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Technologie",
+    "Text": "Lanko prasklo, protože technik za brzdu zatáhnul jako vůl.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Doprava",
+    "Text": "Mé obytné auto je ve Španělsku. Stačí, když vám ukážu fotky a vy mi dáte razítko?",
+    "Likes": "0"
+  },
+  {
+    "Category": "Zvířátka",
+    "Text": "Nepřišel jsem, protože jsem rodil kozu.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Zvířátka",
+    "Text": "Mému křečkovi se udělalo zle, musel jsem s ním jet na veterinu.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Práce",
+    "Text": "Omlouvám se, že jsem se spozdil, ale potkal jsem exmanželku.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Práce",
+    "Text": "Omlouvám se, ale dnes nepřijedu do práce, přítelkyně po návratu z nákupu nechala svítit auto a vybila se mi baterie.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Práce",
+    "Text": "Nemohl jsem přijít, protože napadl sníh a silničáři byli jako vždy připraveni.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Práce",
+    "Text": "Nemohl jsem přijít, protože nejela žádná klimatizovaná tramvaj a v těch normálních já nejezdím.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Práce",
+    "Text": "Omluvte mě dneska prosím, je mi hrozně zle, já jsem se včera ožral jako prase.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Škola",
+    "Text": "Nedostavil jsem se na zkoušku, protože mě zatkla policie, ale to proto, že si mě s někým spletli.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Škola",
+    "Text": "Elektrostatická jiskra protrhla díru v časoprostorovém kontinuu mého pokoje. Moje diplomka byla přenesena v čase a byla publikována náhodným člověkem. Takže teď musím svou práci předělat, protože jinak by to byl plagiát.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Společenské",
+    "Text": "Nepříjdu, mám lepší věci na práci.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Společenské",
+    "Text": "Nepřišel jsem, protože jsem musel do kostela, a bůh to jistě pochopí.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Zvířátka",
+    "Text": "Můj pes mi počůral notebook a trvalo 3 dny, než vyschnul.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Zvířátka",
+    "Text": "Dělal jsem si úkoly na zahradě, když v tom přiletěla straka a ukradla mi sešit a odletěla pryč.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Vztahy a rodina",
+    "Text": "Moje láska k tobě je momentálně tak silná, že bych pro tebe udělal cokoliv - kromě opravy fasády.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Různé",
+    "Text": "Nevysmrkám se, protože se bojím, že bych vyfoukl všechny své geniální nápady.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Práce",
+    "Text": "Nemůžeš jít na toaletu, protože je to proti naší firemní politice šetření vody.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Různé",
+    "Text": "To jsem neudělal já, bylo to mé zlé dvojče z alternativního vesmíru.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Vztahy a rodina",
+    "Text": "Omlouvám se, že jsem přišla pozdě mami, ale zasekla jsem se ve frontě na toaletu.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Zvířátka",
+    "Text": "Nemůžu přijít, moje přestrojení jako tučňák bylo odhaleno a musím se ukrýt.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Sex",
+    "Text": "Nesundám si podprsenku, ty si taky nasundáváš ponožky, když je den bez ponožek!",
+    "Likes": "0"
+  },
+  {
+    "Category": "Technologie",
+    "Text": "Nevadí, že to neodpovídá ISO 9001, hlavně že to odpovídá našemu rozpočtu.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Různé",
+    "Text": "Rád bych přispěl na chudé, ale musím si nechat přivézt vodu z Himalájí pro svou ranní kávu.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Různé",
+    "Text": "Nepotřebuji ochranné pomůcky, já umím dávat pozor.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Různé",
+    "Text": "Do McDonald's nechodím, protože nechci ještě tak brzo umřít.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Vztahy a rodina",
+    "Text": "Já nic, to všechno ty hormony.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Vědecké",
+    "Text": "Je statisticky dokázáno, že nemá smysl uklízet, protože nepořádek se vrátí během 24 hodin.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Vědecké",
+    "Text": "Je statisticky dokázáno, že nemá smysl snažit se být normální, protože 98 % lidí si stejně myslí, že jste divní.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Vědecké",
+    "Text": "Je statisticky dokázáno, že nemá smysl odolávat dezertům, protože pravděpodobnost, že si je stejně dáte, je 1.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Vědecké",
+    "Text": "Je statisticky dokázáno, že nemá smysl se hádat s partnerkou, protože šance na výhru jsou menší než 0,01 %.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Vztahy a rodina",
+    "Text": "Ale, jen jsem se díval, jak je ta holka strašně zmalovaná...",
+    "Likes": "0"
+  },
+  {
+    "Category": "Vztahy a rodina",
+    "Text": "Tobě sluší všechno, co si oblékneš miláčku.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Politické",
+    "Text": "Žádná pojistka není zapotřebí. Co se dělo před deseti nebo patnácti lety, už dávno neexistuje.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Politické",
+    "Text": "Dům jsme postavili za naprosto transparentní prostředky, senzace se prostě nekoná.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Doprava",
+    "Text": "To není moje chyba, prostě jedu, jedu, a najednou strom a prásk.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Práce",
+    "Text": "Byl jsem mylně informován, že je dnes neděle, proto jsem nedorazil do kanceláře.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Práce",
+    "Text": "Zaspal jsem do práce, protože jsem celou noc vyl na měsíc.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Různé",
+    "Text": "Proč bych měl platit za streamovací služby, když se to dá stáhnout zdarma z netu?",
+    "Likes": "0"
+  },
+  {
+    "Category": "Doprava",
+    "Text": "Překročil jsem povolenou rychlost, protože zpěchám na záchod.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Doprava",
+    "Text": "Nepřekročil jsem povolenou rychlost. Předpokládám, že ta padesátka je na osobu, a my jsme v autě 4.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Doprava",
+    "Text": "Ujížděl jsem vám, protože kdysi mi manželka utekla s dopravákem, a já se bál, že mi ji chce vrátit.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Doprava",
+    "Text": "Překročil jsem povolenou rychlost, protože jsem chtěl dorazit k benzínce dřív, než mi ten benzín dojde.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Práce",
+    "Text": "Mám alergii na píchnutí vosy, takže nemůžu pracovat venku.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Práce",
+    "Text": "Mám ruce tak slabé, že v nich neudržím ani lžičku, takže nemůžu pracovat.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Práce",
+    "Text": "Omlouvám se, že jsem zaspal, ale musel jsem s dětmi koukat na všechny díly Kung-fu pandy.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Různé",
+    "Text": "Já vím, že to měla být nevinná animace pro děti, a víc jsem se soustředil na zábavu dospělých než na nevinnost dětí, ale věřte mi, že i děti si tam najdou něco pro sebe.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Práce",
+    "Text": "Omluvám se, ale dnes nemůžu do práce, až zítra, měl jsem mrtvici.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Vztahy a rodina",
+    "Text": "Rád bych ti pomohl se stěhováním, ale musím na pohřeb.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Finanční",
+    "Text": "Proč spořit, když inflace stejně všechno sežere.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Různé",
+    "Text": "Veganem bych mohl být, ale ještě nechci umřít tak brzy.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Vztahy a rodina",
+    "Text": "Vitamíny nejím, protože moje babička taky nikdy nebrala vitamíny a dožila se stovky.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Různé",
+    "Text": "Ne, neztratili jsme se v džungli, jen jsme šli na obhlídku terénu.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Různé",
+    "Text": "Vždyť jsem skoro nic nevypil, měl jsem jen pár piv, abych podpořil místní ekonomiku.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Vědecké",
+    "Text": "Ne, nejedná se o bordel na mém stole, je to pečlivě organizovaný kvantový jev.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Vědecké",
+    "Text": "My, vědci Severní Koreje, jsme pro celosvětový mír, ale až vyřešíme problém s přesnou navigací našich mírových raket.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Vědecké",
+    "Text": "Dneska nemůžeme pracovat, prasklo těsnění v kávovaru.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Zdravotní",
+    "Text": "Potřebuji nový glukometr pane doktore, můj pes si myslel, že je to hračka a rozkousal mi to.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Zdravotní",
+    "Text": "Potřebuji kopii lékařské zprávy pane doktore, papoušek mi to rozkloval.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Zdravotní",
+    "Text": "Z vasektomie nemusíš mít strach. Dokaž, že máš na to koule!",
+    "Likes": "0"
+  },
+  {
+    "Category": "Různé",
+    "Text": "Já jsem tolerantní člověk, ale jestli objednáš pizzu s ananasem...",
+    "Likes": "0"
+  },
+  {
+    "Category": "Práce",
+    "Text": "Nemůžu pracovat přesčas, protože jsem se předčasně narodil a potřebuju víc odpočinku.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Práce",
+    "Text": "Omlouvám se, že jdu pozdě, ale zdržel jsem se na toaletě.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Různé",
+    "Text": "Nevěřím v boha, protože satan je lepší.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Sex",
+    "Text": "Dneska ne Běto, i chlapi mají své dny.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Vztahy a rodina",
+    "Text": "Já tu vázu nerozbil, to byl Pinďa.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Práce",
+    "Text": "Potřebuji měsíc volno, protože jsem přijal nabídku stát se šamanem v jednom africkém kmeni.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Vztahy a rodina",
+    "Text": "Nemůžu ti pomoct, protože postavy v mém oblíbeném seriálu si beze mě neporadí.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Různé",
+    "Text": "Nepozdravil jsem tě, protože jsem si tě vůbec nevšiml.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Různé",
+    "Text": "Přísahám, že jsem sem přišel jen fotit, ne rybařit. Prut mám jen pro zábavu.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Různé",
+    "Text": "Já nevím, co dělám špatně, to už je tento týden po třetí.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Vztahy a rodina",
+    "Text": "Rád bych se s tchýní projel, ale mám nějaký problem s autem.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Práce",
+    "Text": "Lidé jsou na dovolených, všechno trvá a za to já nemůžu.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Sport",
+    "Text": "Vždycky, když se rozhodnu jít běhat, tak začne vždycky pršet.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Různé",
+    "Text": "Ryby na jakýkoliv způsob nejím, protože jsem přísahal, že nikdy nezradím své akvarijní kamarády.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Různé",
+    "Text": "Nemáme olivový olej, protože se letos urodilo málo oliv.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Vztahy a rodina",
+    "Text": "To víš, že nebudu chlastat, jdeme jen na jedno.",
+    "Likes": "0"
+  },
+  {
+    "Category": "IT",
+    "Text": "Server je dole, protože probíhá neplánovaná údržba systému.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Práce",
+    "Text": "Mohl bych dělat lepší práci, ale je to mimo město, kde žiju, a na stěhování nebo dojíždění nemám prostředky.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Vztahy a rodina",
+    "Text": "Mí přátelé a rodina mi řekli, že to nemám dělat.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Různé",
+    "Text": "Je to všechno o tom, koho znáš, a já neznám ty správné lidi.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Sport",
+    "Text": "Z běhání vždycky onemocním.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Různé",
+    "Text": "Na to jsem už moc starý.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Různé",
+    "Text": "Jídlo z fastfoodů plné chemie nejím, radši si dám sáček instantní polévky.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Technologie",
+    "Text": "Počítače jsou ďáblův nástroj, protože umožňují šíření hříšných myšlenek, propagují materialismus a odpoutávají od duchovních hodnot.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Práce",
+    "Text": "Do fabriky mě nikdo nedostane, to je novodobé otroctví.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Různé",
+    "Text": "Pesticidy jsou v pohodě, protože pomáhají chránit plodiny před nemocemi a houbami.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Různé",
+    "Text": "Účet v bance nechci! Banky jsou největší zlo, protože ovládají světovou ekonomiku, způsobují ekonomické krize a manipulují s našimi penězi, aby z nich mohly profitovat.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Práce",
+    "Text": "Nebudu dobrovolničit, dobrovolně musím chodit do práce, takže společnosti přispívám víc, než dost.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Různé",
+    "Text": "Nic, co roste z půdy nejím, protože dneska je půda všude kontaminována chemikáliema.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Různé",
+    "Text": "Nepřestanu topit uhlím, protože mi to připomíná staré dobré časy.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Různé",
+    "Text": "Nemám strach z létání letadlem, jen je to prostě hrozně neekologické.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Zdravotní",
+    "Text": "Nejsem tlusatá, to je všechno voda.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Škola",
+    "Text": "Ta úča je úplně blbá a vůbec neumí učit, a navíc je na mě zasedlá.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Škola",
+    "Text": "Tenisky stačí, co se nám na horách v zimě tak asi může stát?",
+    "Likes": "0"
+  },
+  {
+    "Category": "Různé",
+    "Text": "K čemu jsou nám pojišťovny, když platíte celý život a při prvním problému se vymlouvají?",
+    "Likes": "0"
+  },
+  {
+    "Category": "Vztahy a rodina",
+    "Text": "Moc hezky hraješ na housle, to sousedi určitě klepou řízky, ne na nás.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Práce",
+    "Text": "To je tak jednoduchá práce, že i opice by se to naučila za banán.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Různé",
+    "Text": "Čaj piji pouze za předpokladu, že je tvořen aspoň z 60% alkoholem.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Vztahy a rodina",
+    "Text": "Na co ti budu kupovat hračky, když to stejně hned rozbiješ.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Různé",
+    "Text": "Nepodporuji migraci, protože migranti nám berou práci a zvyšují kriminalitu.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Různé",
+    "Text": "Solidarita je super, ale nejdřív si musím zajistit vlastní pohodlí.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Různé",
+    "Text": "Snowboardisti jsou šmejdi, protože vždycky zabírají celý svah nebo blokují cestu.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Různé",
+    "Text": "Nemám rád Vánoce, protože se mi nelíbí, jak komercializace převzala celé svátky.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Vztahy a rodina",
+    "Text": "Dárky letos nebudou, protože je to všechno moc drahé.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Zdravotní",
+    "Text": "Copak jsem pes, abych nosil náhubek?!",
+    "Likes": "0"
+  },
+  {
+    "Category": "Různé",
+    "Text": "Proč bych měl platit za filmy, když si to můžu zdarma stáhnout.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Různé",
+    "Text": "Moc hezky hraješ na cello, ale nechtěl bys zkusit třeba i něco jiného?",
+    "Likes": "0"
+  },
+  {
+    "Category": "Různé",
+    "Text": "Letos si dávám předsevzetí, že si žádné předsevzetí nedávám.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Různé",
+    "Text": "Meditovice není chlast, to je podpůrný prostředek pro metidaci v tento slavnostní den.",
+    "Likes": "0"
+  },
+  {
+    "Category": "Různé",
+    "Text": "Nechci slaninu, protože jsem proti chovu hospodářských zvířat.",
+    "Likes": "0"
+  }
+]

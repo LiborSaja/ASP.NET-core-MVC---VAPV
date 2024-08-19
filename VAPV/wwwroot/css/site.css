@@ -1,0 +1,162 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    padding: 20px;
+}
+
+.navbar {
+    background-color: #ffffff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 0.5rem 1rem;
+}
+
+.navbar-brand img {
+    height: 100px;
+}
+
+.navbar-nav {
+    margin: 0 auto;
+}
+
+.navbar-nav .nav-item {
+    margin-left: 20px;
+}
+
+.navbar-toggler {
+    border: none;
+}
+
+.navbar-toggler:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.navbar-toggler-icon {
+    background-image: url('data:image/svg+xml;charset=utf8,%3Csvg viewBox%3D%220 0 30 30%22 xmlns%3D%22http://www.w3.org/2000/svg%22%3E%3Cpath stroke%3D%22rgba%280, 0, 0, 0.5%29%22 stroke-width%3D%222%22 stroke-linecap%3D%22round%22 stroke-miterlimit%3D%2210%22 d%3D%22M4 7h22M4 15h22M4 23h22%22/%3E%3C/svg%3E');
+}
+
+.navbar-collapse {
+    justify-content: flex-start;
+}
+
+.nav-link.custom-nav-link {
+    color: #333333 !important;
+    font-weight: 500 !important;
+    font-size: 1rem !important; /* Pøidáno pro sjednocení velikosti písma */
+    white-space: nowrap;
+    text-decoration: none !important;
+}
+
+.nav-link.custom-nav-link:hover {
+    color: #0056b3 !important;
+}
+
+.current-date-time {
+    font-size: 1em;
+    text-align: left;
+    margin-left: auto;
+    font-weight: bold;
+    color: #555;
+    display: flex;
+    justify-content: space-between;
+}
+
+.excuse {
+    margin-left: 20px;
+    color: #007bff;
+}
+
+@media (max-width: 991px) {
+    .navbar-nav {
+        flex-direction: column;
+        width: 100%;
+        margin: 0;
+    }
+
+    .navbar-nav .nav-item {
+        margin: 0.5rem 0;
+    }
+
+    .navbar-collapse {
+        background-color: #ffffff;
+        padding: 1rem;
+    }
+
+    .current-date-time {
+        text-align: center;
+        margin-top: 10px;
+        flex-direction: column;
+    }
+
+    .excuse {
+        margin-left: 0;
+    }
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.calendar-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.day-card {
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 10px 0;
+    padding: 20px;
+    width: 100%;
+    max-width: 1000px;
+}
+
+.day-card h3 {
+    margin: 0;
+    color: #007bff;
+}
+
+.day-card p {
+    margin: 5px 0;
+}
+
+.day-card .international-day {
+    font-weight: bold;
+}
+
+.day-card .excuse {
+    font-style: italic;
+}
+
+.nav-item {
+    font-weight: 500 !important;
+    font-size: 1rem !important;
+}
+
+.nav-link.active {
+    font-weight: 500 !important;
+    font-size: 1rem !important;
+}

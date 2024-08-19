@@ -1,0 +1,110 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - VAPV</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <header>
+        <div id="current-date-time" class="current-date-time">
+            <span id="date-time"></span>
+            <span id="excuse" class="excuse"></span>
+        </div>
+        <nav class="navbar navbar-expand-lg navbar-light">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="#">
+                    <img src="~/images/logo.png" alt="Logo">
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">HOME</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Privacy">PODMÍNKY POUŽITÍ</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Calendars" asp-action="Index">KALENDÁŘ VÝMLUV</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Excuses" asp-action="Search">VYHLEDAT VÝMLUVU</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Excuses" asp-action="Index">SEZNAM VÝMLUV</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Other">OBRÁZKOVÉ VÝMLUVY</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Hall">HALL OF FAMES</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Quiz">KVÍZ</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container content">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    <footer class="border-top footer text-muted mt-auto">
+        <div class="container">
+            &copy; 2024 - VAPV - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script>
+        async function updateDateTime() {
+            var now = new Date();
+            var dateTimeString = now.toLocaleDateString('cs-CZ', {
+                year: 'numeric',
+                month: 'long',
+                day: 'numeric',
+                weekday: 'long',
+            });
+            dateTimeString = dateTimeString.charAt(0).toUpperCase() + dateTimeString.slice(1);
+            var timeString = now.toLocaleTimeString('cs-CZ', {
+                hour: '2-digit',
+                minute: '2-digit',
+                second: '2-digit'
+            });
+            document.getElementById('date-time').textContent = dateTimeString + ' ' + timeString;
+        }
+
+        async function updateExcuse() {
+            try {
+                console.log('Fetching random excuse...');
+                const response = await fetch('/Excuses/GetRandomExcuse');
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                const excuse = await response.text();
+                console.log(`Načtená výmluva: ${excuse}`);
+                document.getElementById('excuse').textContent = excuse;
+            } catch (error) {
+                console.error('Chyba při načítání výmluvy:', error);
+            }
+        }
+
+        setInterval(updateDateTime, 1000);
+        setInterval(updateExcuse, 60000);
+
+        document.addEventListener("DOMContentLoaded", function () {
+            console.log('DOM fully loaded and parsed');
+            updateDateTime();
+            updateExcuse();
+        });
+    </script>
+</body>
+</html>

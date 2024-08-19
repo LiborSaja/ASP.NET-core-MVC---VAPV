@@ -1,0 +1,38 @@
+﻿@model IEnumerable<VAPV.DTO.ExcuseDTO>
+
+@{
+    ViewData["Title"] = "Seznam";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Excuses</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" />
+</head>
+<body>
+    <div class="container">
+        <h1>Seznam všech výmluv</h1>
+        <p>Aktuální počet všech výmluv: @ViewBag.ExcuseCount</p>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Category</th>
+                    <th>Text</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var excuse in Model) {
+                    <tr>
+                        <td>@excuse.Id</td>
+                        <td>@excuse.Category</td>
+                        <td>@excuse.Text</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

@@ -1,0 +1,32 @@
+﻿@model List<VAPV.DTO.CalendarDayDTO>
+
+@{
+    ViewData["Title"] = "Kalendář výmluv";
+}
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" />
+
+<h1>Kalendář výmluv</h1>
+<div class="container calendar-container">
+    @if (Model != null && Model.Count > 0) {
+        @foreach (var day in Model) {
+            <div class="day-card">
+                <h3>@day.Date.ToString("dd-MM-yyyy") - @day.CzechName</h3>
+                <p class="international-day">Mezinárodní dny:</p>
+                <ul>
+                    @foreach (var internationalDay in day.InternationalDays) {
+                        <li>@internationalDay</li>
+                    }
+                </ul>
+                <p class="excuse">Výmluvy:</p>
+                <ul>
+                    @foreach (var excuse in day.Excuses) {
+                        <li>@excuse</li>
+                    }
+                </ul>
+            </div>
+        }
+    }
+    else {
+        <p>Pro aktuální tři dny nebyly nalezeny žádné výmluvy.</p>
+    }
+</div>
