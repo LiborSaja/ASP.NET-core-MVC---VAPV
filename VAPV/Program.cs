@@ -44,6 +44,7 @@ using (var scope = app.Services.CreateScope()) {
 
 app.Run();
 
+//metoda pro okamžité pøidání novì vložených objektù (do excuses.json) do databáze
 public static class SeedData {
     public static void Initialize(IServiceProvider serviceProvider) {
         using (var context = serviceProvider.GetRequiredService<ExcuseDbContext>()) {
@@ -57,7 +58,7 @@ public static class SeedData {
                 if (existingExcuse == null) {
                     // Pokud záznam neexistuje, pokusíme se ho pøidat
                     try {
-                        context.Excuses.Add(jsonExcuse);
+                        context.Excuses.Add(jsonExcuse); //zde EF zaøídí automatické autoinkrementované vygenerování ID a uložení do db pod tímto id
                         context.SaveChanges();
                     }
                     catch (DbUpdateException) {

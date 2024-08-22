@@ -11,3 +11,9 @@ namespace VAPV.DTO {
     }
 
 }
+
+//DateTime Date -> datum daného dne. Vlastnost je anotována atributem [JsonProperty("date")], což znamená, že při deserializaci JSON souboru se
+//                tato hodnota bude mapovat z pole date v JSONu.
+//List<string> InternationalDays -> seznam mezinárodních dnů pro daný den
+//List<string> Excuses -> seznam výmluv pro daný den
+//[JsonConverter(typeof(CustomDateTimeConverter))] -> zajišťuje správnou konverzi datových formátů mezi JSONem a DateTime v C#.
