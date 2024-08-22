@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using VAPV.DTO;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace VAPV.Controllers {
     public class CalendarsController : Controller {
@@ -17,13 +18,13 @@ namespace VAPV.Controllers {
             return View(calendarDays);
         }
 
-        //
+        //získání kalendářních dat pro tři dny včetně Využívá metodu LoadCalendarDays() pro načtení všech dnů a poté je filtruje podle data.
         private List<CalendarDayDTO> GetCalendarDaysForThreeDays(DateTime startDate) {
             var allDays = LoadCalendarDays();
             return allDays.Where(day => day.Date >= startDate.AddDays(-1) && day.Date <= startDate.AddDays(1)).ToList();
         }
 
-        //
+        //Načítá data z JSON souboru a Deserializuje do seznamu objektů
         private List<CalendarDayDTO> LoadCalendarDays() {
             var json = System.IO.File.ReadAllText(_calendarFilePath);
             var days = JsonConvert.DeserializeObject<List<CalendarDayDTO>>(json);
